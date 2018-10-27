@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">Какие из данных стран расположены в Азии?</string>
+    <string name="quest1_variant1">Судан</string>
+    <string name="quest1_variant2">Бутан</string>
+    <string name="quest1_variant3">Перу</string>
+    <string name="quest1_variant4">Иран</string>
+    <string name="question2">Какие из данных городов расположены в Африке?</string>
+    <string name="quest2_variant1">Гаага</string>
+    <string name="quest2_variant2">Рабат</string>
+    <string name="quest2_variant3">Каир</string>
+    <string name="quest2_variant4">Акапулько</string>
+    <string name="question3">Какого цвета кленовый лист на государственном флаге Канады?</string>
+    <string name="quest3_variant1">Жёлтый</string>
+    <string name="quest3_variant2">Красный</string>
+    <string name="quest3_variant3">Синий</string>
+    <string name="quest3_variant4">Зелёный</string>
+    <string name="question4">Какого моря не существует?</string>
+    <string name="quest4_variant1">Жёлтое</string>
+    <string name="quest4_variant2">Красное</string>
+    <string name="quest4_variant3">Синее</string>
+    <string name="quest4_variant4">Белое</string>
+    <string name="question5">Самый южный материк?</string>
+    <string name="hint">Напишите ответ</string>
+    <string name="score">Набрано очков: </string>
+    <string name="errors">Допущено ошибок: </string>
+    <string name="submit">Проверить</string>
+
+</resources>
