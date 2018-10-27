@@ -8,6 +8,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
@@ -52,5 +53,6 @@ public class MainActivity extends AppCompatActivity {
         TextView errorView = findViewById(R.id.errors);
         errorView.setText("Допущено ошибок: " + errors);
         view.setText("Правильных ответов: " + score);
+        Toast.makeText(getApplicationContext(), String.valueOf(score),Toast.LENGTH_LONG).show();
     }
 }
